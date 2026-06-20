@@ -1,0 +1,9 @@
+{
+  "name": "scross01-skills",
+  "skills": [
+    "./fetch",
+    "./keeenv",
+    "./searxngr",
+    "./tabletop"
+  ]
+}
