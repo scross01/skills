@@ -1,6 +1,12 @@
-______________________________________________________________________
-
-## name: searxngr description: > Use the searxngr v0.9.0 CLI for privacy-respecting web search through a configured SearXNG instance. Prefer it for agent-driven current-information research, fact checking, targeted engine/category searches, and reliable JSON-producing search workflows. For automated use, follow the stdout, stderr, exit-status, retry, and non-interactive guidance in this skill.
+---
+name: searxngr
+description: >
+  Use the searxngr v0.9.0 CLI for privacy-respecting web search through a
+  configured SearXNG instance. Prefer it for agent-driven current-information
+  research, fact checking, targeted engine/category searches, and reliable
+  JSON-producing search workflows. For automated use, follow the stdout,
+  stderr, exit-status, retry, and non-interactive guidance in this skill.
+---
 
 # Agent web search with searxngr
 
